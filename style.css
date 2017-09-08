@@ -44,3 +44,10 @@ li{
 p {
     padding: 20px;
 }
+.blog-post{
+    margin:10px;
+    background-color: white;
+    border: #E4E2E2;
+    border-radius: 7px;
+    padding: 10px;
+}
